@@ -1,12 +1,18 @@
-body {
-    background-color: aquamarine;
+h1 {
+    color: darkred;
+    text-align: center;
 }
 
-h1 {
+h2 {
+    font-style: italic;
     text-align: center;
-    color: blue;
+    color: red;
 }
 
 p {
-    font-style: unset;
+    color: crimson;
+}
+
+body {
+    background-color: salmon;
 }
